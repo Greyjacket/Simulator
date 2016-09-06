@@ -1,0 +1,12 @@
+package version1;
+
+import java.awt.List;
+import java.util.Collection;
+
+public abstract class Node {
+	public String name;	
+	private Collection<Node> connections;
+	
+	
+	
+}
