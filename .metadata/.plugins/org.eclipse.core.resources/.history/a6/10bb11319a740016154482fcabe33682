@@ -4,9 +4,9 @@ import java.util.Collection;
 
 public abstract class Node {
 	public String name;
-	int id;
-	protected Collection<Node> connections;
+	public short id;
+	private Collection<Node> connections;
 	
-	//abstract void scan();
+	abstract void link();
 	
 }
