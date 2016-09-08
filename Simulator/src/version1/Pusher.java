@@ -1,42 +1,37 @@
 package version1;
 
-import java.util.ArrayList;
-import java.util.Collection;
-
-import javax.swing.text.html.HTMLDocument.Iterator;
+import java.util.HashSet;
 
 public class Pusher extends User implements Consumable {
 	
 	short pushes;
 	boolean isPushing;
 			
-	public Pusher(String name, int id, short pushes, ArrayList<Node> adjacencyList){
+	public Pusher(String name, int id, short pushes, HashSet<Node> adjacencyList){
 		this.id = id;
 		this.name = name;
 		this.pushes = pushes;
 		this.connections = adjacencyList;
 	}	
 	
-	
-	/*public link(Node node){
-		this
-	}*/
-	public void scan(){
-		Iterator itr = connections.iterator();
+	public void scan(){			
 		
-		while(itr.hasNext()){
+		for (Node otherNode : connections) {
 			
+			if(otherNode instanceof Pusher){
+				
+				Pusher otherPusher = (Pusher) otherNode;
+				
+				if(otherPusher.isPushing){
+					this.consume(otherPusher);
+				}
+			}
 		}
-		/*for (int i = 0; i < connections.size(); i++) {
-			if connections[i].isPushing = true;			
-		}*/
 	}
-	
-	//@Override
+
 	public void consume(Pusher otherPusher){		
 		this.pushes++;
 		otherPusher.pushes--;
 	}
-
 
 }

@@ -7,6 +7,4 @@ public abstract class Node {
 	int id;
 	protected Collection<Node> connections;
 	
-	//abstract void scan();
-	
 }
