@@ -7,4 +7,5 @@ public abstract class Node {
 	int id;
 	protected Collection<Node> connections;
 	
+	public abstract void link(Node node);
 }

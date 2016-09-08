@@ -1,5 +1,4 @@
 package version1;
-import java.util.Collection;
 
 public class NodeFactory {
 	//singleton factory
@@ -11,8 +10,8 @@ public class NodeFactory {
 		return instance;
 	}
 	   
-	public Node createNode(int id, String name, short pushes, Collection<Node> connections) {
-		return new Pusher(id, name, pushes, connections);
+	public Pusher createPusher(int id, String name, int pushes) {
+		return new Pusher(id, name, pushes);
 	}
 
 }
