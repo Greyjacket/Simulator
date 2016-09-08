@@ -1,0 +1,11 @@
+package version1;
+
+public abstract class AbstractFactory {
+
+	public abstract Node createNode();
+
+	/*public Pusher createNode(int id, String name, short pushes) {
+		// TODO Auto-generated method stub
+		return null;
+	}*/
+}

@@ -1,0 +1,11 @@
+package version1;
+import java.util.Collection;
+
+public class PusherFactory extends AbstractFactory{
+	
+	@Override
+	public Node createNode(int id, String name, short pushes, Collection<Node> connections) {
+		return new Pusher(id, name, pushes, connections);
+	}
+
+}

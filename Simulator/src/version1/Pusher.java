@@ -1,13 +1,13 @@
 package version1;
 
-import java.util.HashSet;
+import java.util.Collection;
 
-public class Pusher extends User implements Consumable {
+public class Pusher extends User implements Consumable{
 	
-	short pushes;
+	int pushes;
 	boolean isPushing;
 			
-	public Pusher(String name, int id, short pushes, HashSet<Node> adjacencyList){
+	public Pusher(int id, String name, int pushes, Collection<Node> adjacencyList){
 		this.id = id;
 		this.name = name;
 		this.pushes = pushes;

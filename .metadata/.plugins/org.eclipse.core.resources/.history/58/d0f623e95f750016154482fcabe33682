@@ -1,0 +1,6 @@
+package version1;
+
+public abstract class AbstractFactory {
+
+	public createNode(){};
+}

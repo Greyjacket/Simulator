@@ -1,0 +1,14 @@
+package version1;
+
+public class Stage {
+
+	public static void main(String[] args) {
+		
+		NodeFactory factory = NodeFactory.getInstance();
+		
+		int numberofPushers = 10;
+		
+		
+	}
+
+}
