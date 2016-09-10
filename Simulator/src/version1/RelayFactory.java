@@ -1,6 +1,7 @@
 package version1;
 
 public class RelayFactory {
+	
 	//singleton factory
 	private static RelayFactory instance = new RelayFactory();
 		

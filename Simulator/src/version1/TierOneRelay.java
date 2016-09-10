@@ -17,4 +17,12 @@ public class TierOneRelay extends Relay {
 		// TODO Auto-generated method stub
 		
 	};
+	
+	public void setId(int id){
+		this.id = id;
+	}
+	
+	public void setName(String name){
+		this.name = name;		
+	}
 }

@@ -6,21 +6,17 @@ import java.util.Random;
 
 public class Pusher extends User implements Consumable{
 	
-	int pushes;
 	boolean isPushing;
-			
-	public Pusher(int id, String name, int pushes){
-		this.id = id;
-		this.name = name;
-		this.pushes = pushes;
+	private int pushes;			//no longer based on level. running average? or half the amount of pushes lost within a recent period of time	
+	public int likes;
+	private int dislikes;
+	private int experience;
+	public int level;
+	public String location;
+	
+	public Pusher(){
 		this.connections = new HashSet<Node>();
-		if(pushes <= 0){
-			this.isPushing = false;
-		}
-		else{
-			this.isPushing = true;
-		}
-	}	
+	}
 	
 	public void relayScan(Relay relay){
 		
@@ -80,8 +76,49 @@ public class Pusher extends User implements Consumable{
 		if(otherNode instanceof Relay){
 			//establish mutual link with Relay
 			otherNode.connections.add(this);			
-		}
-		
+		}		
 	}
 
+	//---------------------------------------------------------------------------------Setters
+	
+	public void setId(int id){
+		this.id = id;
+	}
+	
+	public void setName(String name){
+		this.name = name;		
+	}
+	
+	public void setNumberOfPushes(int pushes){
+		
+		this.pushes = pushes;
+		
+		if(pushes > 0){
+			this.isPushing = true;
+		}
+		else{
+			this.isPushing = false;
+		}
+	}
+	
+	public void setNumberOfLikes(int likes){		
+		this.likes = likes;
+	}
+	
+	public void setNumberOfDislikes(int dislikes){
+		this.dislikes = dislikes;
+	}
+	
+	public void setLevel(int level){
+		this.level = level;
+	}
+	
+	public void setExperience(int experience){
+		this.experience = experience;
+	}
+	
+	public void setLocation(String location){
+		this.location = location;
+	}
+	
 }

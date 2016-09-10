@@ -10,8 +10,8 @@ public class NodeFactory {
 		return instance;
 	}
 	   
-	public Pusher createPusher(int id, String name, int pushes) {
-		return new Pusher(id, name, pushes);
+	public Pusher createPusher() {
+		return new Pusher();
 	}
 
 }

@@ -8,4 +8,8 @@ public abstract class Node {
 	protected Collection<Node> connections;
 	
 	public abstract void link(Node node);
+	
+	public abstract void setId(int id);
+	
+	public abstract void setName(String name);
 }

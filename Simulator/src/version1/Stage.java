@@ -26,7 +26,7 @@ public class Stage {
 		for(int i = 0; i < numberOfPushers; i++){
 			
 			pushes = rn.nextInt(5);
-			Pusher pusher = nodeFactory.createPusher(id++, name.concat(Integer.toString(id)), pushes);
+			Pusher pusher = nodeFactory.createPusher();
 			pusher.link(relay);
 			pushers.add(pusher);
 		}
