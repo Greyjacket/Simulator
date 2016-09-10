@@ -1,18 +1,20 @@
 package version1;
 
-public class Track {
+public class Token {
 
 	public boolean isPushed;
 	public int trackId;
 	public int durationInSeconds;
 	public int likes;
 	public int dislikes;
-	public Pusher maker;
+	public String title;
 	
-	public Track(int trackId, int duration, Pusher maker){
+	public Token(int trackId, String title, int duration){
 		this.trackId = trackId;
-		this.durationInSeconds = duration;
-		this.maker = maker;
+		this.title = title;
+		this.durationInSeconds = duration;	
+		this.likes = 0;
+		this.dislikes = 0;
 	}
 	
 	public void setLikes(int likes){
@@ -22,4 +24,10 @@ public class Track {
 	public void setDislikes(int dislikes){
 		this.dislikes = dislikes;
 	}
+	
+	public void setTitle(String title){
+		this.title = title;
+	}
+	
+	
 }

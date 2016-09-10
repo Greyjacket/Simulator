@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Random;
 
-public class Pusher extends User implements Consumable{
+public class Pusher extends User implements Consumable, Ratable{
 	
 	boolean isPushing;
 	private int pushes;			//no longer based on level. running average? or half the amount of pushes lost within a recent period of time	
@@ -13,9 +13,11 @@ public class Pusher extends User implements Consumable{
 	private int experience;
 	public int level;
 	public String location;
-	
+	public Token[] tokens;
+	  
 	public Pusher(){
 		this.connections = new HashSet<Node>();
+		this.setExperience(0);
 	}
 	
 	public void relayScan(Relay relay){
@@ -53,11 +55,17 @@ public class Pusher extends User implements Consumable{
 				
 				if(otherPusher.isPushing){
 					this.consume(otherPusher);
+					this.rate(otherPusher);
+					this.link(otherPusher);
 				}
 			}
 		}
 	}
-
+	
+	public void rate(Pusher otherPusher){
+	
+	}
+	
 	public void consume(Pusher otherPusher){		
 		
 		if(this.pushes++ == 0){
