@@ -13,15 +13,5 @@ public class NodeFactory {
 	public Pusher createPusher() {
 		return new Pusher();
 	}
-	
-	public String getRandomBandName(){
-		String bandname = "";
-		return bandname;
-	}
-	
-	public void readBandNames(){
-		FileArrayProvider fap = new FileArrayProvider();
-		fap.readLines("Bandnames.txt");		
-	}
-	
+
 }

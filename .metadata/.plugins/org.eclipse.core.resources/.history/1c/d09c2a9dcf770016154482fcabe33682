@@ -19,9 +19,6 @@ public class NodeFactory {
 		return bandname;
 	}
 	
-	public void readBandNames(){
-		FileArrayProvider fap = new FileArrayProvider();
-		fap.readLines("Bandnames.txt");		
-	}
 	
+
 }

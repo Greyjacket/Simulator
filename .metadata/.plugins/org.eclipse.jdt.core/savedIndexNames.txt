@@ -2,7 +2,6 @@ INDEX VERSION 1.126+C:\Users\Alexander\Simulator\.metadata\.plugins\org.eclipse.
 3065916431.index
 3133528496.index
 30765161.index
-2778321946.index
 305854171.index
 4041092966.index
 4108727661.index

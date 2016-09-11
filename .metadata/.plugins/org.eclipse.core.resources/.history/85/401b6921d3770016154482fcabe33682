@@ -20,8 +20,6 @@ public class NodeFactory {
 	}
 	
 	public void readBandNames(){
-		FileArrayProvider fap = new FileArrayProvider();
-		fap.readLines("Bandnames.txt");		
 	}
 	
 }
