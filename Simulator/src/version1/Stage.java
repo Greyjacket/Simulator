@@ -5,14 +5,16 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Random;
+import java.sql.*;
 
 public class Stage {
 
 	public static void main(String[] args) throws IOException {
-		NodeFactory nodeFactory = NodeFactory.getInstance();
 		
+		NodeFactory nodeFactory = NodeFactory.getInstance();
+		RelayFactory relayFactory = RelayFactory.getInstance();
 		nodeFactory.readBandNames();
-		System.out.println(nodeFactory.getRandomBandName());		
+		//System.out.println(nodeFactory.getRandomBandName());	
 		
 }
 	
@@ -28,7 +30,7 @@ public void testOne() throws IOException{
 	int pushes;
 	Random rn = new Random();
 	
-	Relay relay = relayFactory.createTierOneRelay(1, "Osininka");
+	Relay relay = relayFactory.createTierOneRelay(1, "Osininka", "Buffalo");
 	ArrayList<Pusher> pushers = new ArrayList<Pusher>();
 	
 	for(int i = 0; i < numberOfPushers; i++){
