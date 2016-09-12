@@ -63,7 +63,7 @@ public class Pusher extends User implements Consumable, Ratable{
 	}
 	
 	public void rate(Pusher otherPusher){
-	
+		otherPusher.likes++;
 	}
 	
 	public void consume(Pusher otherPusher){		
@@ -127,6 +127,10 @@ public class Pusher extends User implements Consumable, Ratable{
 	
 	public void setLocation(String location){
 		this.location = location;
+	}
+	
+	public int getNumberOfPushes(){
+		return pushes;
 	}
 	
 }

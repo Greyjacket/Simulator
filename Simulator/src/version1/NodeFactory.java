@@ -1,7 +1,14 @@
 package version1;
 
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Random;
+
 public class NodeFactory {
 	//singleton factory
+	
+	ArrayList<String> bandNames;
+	
 	private static NodeFactory instance = new NodeFactory();
 	
 	private NodeFactory(){};
@@ -14,14 +21,23 @@ public class NodeFactory {
 		return new Pusher();
 	}
 	
-	public String getRandomBandName(){
-		String bandname = "";
-		return bandname;
-	}
-	
-	public void readBandNames(){
+	public void readBandNames() throws IOException{
 		FileArrayProvider fap = new FileArrayProvider();
-		fap.readLines("Bandnames.txt");		
+		this.bandNames = (ArrayList<String>) fap.readLines("Bandnames.txt");		
 	}
 	
+	public String getRandomBandName(){
+			
+		if (this.bandNames != null){
+			Random rn = new Random();
+			int randomIndex = rn.nextInt(this.bandNames.size());
+			
+			if(this.bandNames.get(randomIndex) != null){
+				String randomBandName = this.bandNames.get(randomIndex);
+				this.bandNames.remove(randomIndex);
+				return randomBandName;
+			}
+		}
+		return null;
+	}	
 }
