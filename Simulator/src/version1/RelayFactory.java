@@ -7,7 +7,7 @@ import java.util.Random;
 
 public class RelayFactory {
 	
-	private List<String> locations;
+	public List<String> locations;
 	
 	//singleton factory
 	private static RelayFactory instance = new RelayFactory();
@@ -18,10 +18,29 @@ public class RelayFactory {
 		return instance;
 	}
 	   
-	public Relay createTierOneRelay(int id, String name, String location) {
-		return new TierOneRelay(id, name);
+	public TierOneRelay createTierOneRelay() {
+		return new TierOneRelay();
 	}
 	
+	public ArrayList<TierOneRelay> createDummyRelays(){
+		ArrayList<TierOneRelay> relays = new ArrayList<TierOneRelay>();
+		
+		this.loadLocations();
+		
+		int numberOfCreatedRelays = 0;
+		for(String location : this.locations){
+			TierOneRelay relay = this.createTierOneRelay();
+			relay.setName(location);
+			relay.setLocation(location);
+			relays.add(relay);
+			numberOfCreatedRelays++;
+		}
+		
+		System.out.println("Created " + numberOfCreatedRelays +" relays");
+		return relays;
+	}
+	
+	//get a random location
 	public String getRandomLocation() throws NullPointerException{
 		
 		Random rn = new Random();
@@ -30,10 +49,12 @@ public class RelayFactory {
 			return locations.get(rn.nextInt(locations.size()));
 		}
 		catch(NullPointerException exception){
+			System.out.println("Null pointer in getRandomLocation(). Assigning 'Buffalo'");
 			return "Buffalo";
 		}
 	}
 	
+	//load locations from Census
 	public void loadLocations(){
 		Connection c = null;
 	    Statement stmt = null;
@@ -46,11 +67,11 @@ public class RelayFactory {
 	      System.out.println("Opened database successfully");
 
 	      stmt = c.createStatement();
-	      String sql = "SELECT Location FROM Census;"; 
+	      String sql = "SELECT City FROM Census;"; 
 	      ResultSet rs = stmt.executeQuery(sql);
 
 	      while ( rs.next() ) {	          
-	          String  name = rs.getString("Location");
+	          String  name = rs.getString("City");
 	          locations.add(name);	          
 	      }
 	      

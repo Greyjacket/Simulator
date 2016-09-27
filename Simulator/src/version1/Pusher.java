@@ -1,32 +1,64 @@
 package version1;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Random;
 
-public class Pusher extends User implements Consumable, Ratable{
+public class Pusher extends User implements Consumable, Ratable, Comparable<Pusher>{
 	
 	boolean isPushing;
 	private int pushes;			//no longer based on level. running average? or half the amount of pushes lost within a recent period of time	
 	public int likes;
 	private int dislikes;
-	private int experience;
+	public int experience;
+	public int rating;
 	public int level;
-	public String location;
+	public String city;
+	public String canton;
 	public Token[] tokens;
-	  
+	public Collection<TierOneRelay> connectedRelays;
+	
 	public Pusher(){
 		this.connections = new HashSet<Node>();
-		this.setExperience(0);
+		this.connectedRelays = new HashSet<TierOneRelay>();
 	}
 	
-	public void relayScan(Relay relay){
+    public void scan(int scanType) {
+        switch (scanType) {
+            case 0:
+                this.selfScan();
+                break;
+                    
+            case 1:
+                this.localScan();
+                break;
+                         
+            case 2:
+            	break;
+                        
+            default:
+                System.out.println("Midweek days are so-so.");
+                break;
+        }
+    }
+    
+	public void localScan(){
 		
 		//to Do: convert this to a stream for speed
 		
 		/*relay.getClass();		
 		relay.connections.stream()
 		.filter(t -> t.getClass().equals(Type Pusher);*/
+		for(TierOneRelay relay : connectedRelays){
+			if (relay.location.equals(this.city){
+				Pusher pusher = relay.queue.poll();
+				this.rate(pusher);
+				relay.queue.
+			}
+		}
 		
 		Node[] nodes = relay.connections.toArray(new Node[relay.connections.size()]);
 		ArrayList<Pusher> pushers = new ArrayList<Pusher>();
@@ -45,6 +77,12 @@ public class Pusher extends User implements Consumable, Ratable{
 		
 	}
 	
+	@Override
+	public int compareTo(Pusher otherPusher) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
 	public void selfScan(){			
 		
 		for (Node otherNode : connections) {
@@ -56,14 +94,23 @@ public class Pusher extends User implements Consumable, Ratable{
 				if(otherPusher.isPushing){
 					this.consume(otherPusher);
 					this.rate(otherPusher);
-					this.link(otherPusher);
 				}
 			}
 		}
 	}
 	
 	public void rate(Pusher otherPusher){
-		otherPusher.likes++;
+		
+		Random rn = new Random();
+		int rating = rn.nextInt(100);
+		
+		if(otherPusher.rating <= rating){
+			otherPusher.likes++;
+			this.link(otherPusher);
+		}
+		else{
+			otherPusher.dislikes++;
+		}
 	}
 	
 	public void consume(Pusher otherPusher){		
@@ -80,11 +127,14 @@ public class Pusher extends User implements Consumable, Ratable{
 	public void link(Node otherNode){
 		
 		connections.add(otherNode);	
-		
-		if(otherNode instanceof Relay){
-			//establish mutual link with Relay
-			otherNode.connections.add(this);			
-		}		
+	
+	}
+	
+	public void linktoRelay(TierOneRelay relay){
+
+		relay.queue.add(this);
+		connectedRelays.add(relay);
+			
 	}
 
 	//---------------------------------------------------------------------------------Setters
@@ -95,6 +145,10 @@ public class Pusher extends User implements Consumable, Ratable{
 	
 	public void setName(String name){
 		this.name = name;		
+	}
+	
+	public void setRating(int rating){
+		this.rating = rating;		
 	}
 	
 	public void setNumberOfPushes(int pushes){
@@ -124,13 +178,17 @@ public class Pusher extends User implements Consumable, Ratable{
 	public void setExperience(int experience){
 		this.experience = experience;
 	}
+
+	public void setCity(String city){
+		this.city = city;
+	}
 	
-	public void setLocation(String location){
-		this.location = location;
+	public void setCanton(String canton){
+		this.canton = canton;
 	}
 	
 	public int getNumberOfPushes(){
 		return pushes;
-	}
+	}	
 	
 }

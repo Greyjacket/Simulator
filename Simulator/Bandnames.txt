@@ -15,7 +15,7 @@ Minimax Skunks
 Squirrel 
 Rosemary Starve 
 Pariah Amino 
-Loudspeaker 
+The Loudspeakers 
 Urban Criterion Theirs 
 Antennas Ricochet 
 Sprout Shrew 
@@ -54,7 +54,7 @@ Bravo Overheard Enlightenment
 Automata Politics 
 Idiotic 
 Botanical Dime 
-Cloud 
+Shroud
 Botanical Bodybuilding 
 Nimble Crossroad Creamery 
 Star 
@@ -83,7 +83,7 @@ Sulk Caption
 Bellboy Whip 
 Pessimism Facsimile Subvert 
 The Register Morality 
-Hideout 
+The Hideout 
 Transistor Playwrights 
 Lodge 
 Airstrip Train 
@@ -149,7 +149,7 @@ Ballroom
 Converters Admiral Victim Domino 
 Transcendent Honors 
 Barb Therapy 
-Cooper 
+CooperSmith 
 Shrine Bungalow Louse 
 Omnibus Snoop 
 Cleave Hemp 
@@ -171,7 +171,7 @@ Coachmen
 Pundit Locus 
 Salesperson 
 Either Jewels Gentry 
-Gory 
+Gorgon
 Stratification 
 Childlike Navel Medicines Tassel 
 International Face 
@@ -186,7 +186,7 @@ Rampart Integrative
 Hideout Laziest 
 Pungent Panthers Borderline 
 Cram What 
-Bluffing 
+Bluffer 
 Burnings Pod 
 Patriot Raptures 
 Messengers Around Clockwork Lotus 
@@ -206,7 +206,7 @@ Faithful Hike
 Versus 
 Corrosive Shadowy 
 Soundings Seamen 
-Location 
+Locations 
 Benchmarks Grades 
 Equinox Research 
 Destructor Pumice 
@@ -321,9 +321,8 @@ Orchestra Dells
 Premiers Decimate 
 Arabesque Havens 
 Creeper Breeder 
-Vine 
 Equatorial 
-Crocks 
+Crocodile
 Waterfalls Rapids 
 193690 Fruit 
 Bedbug Stabilizer 
@@ -348,7 +347,7 @@ Chatter Counsellors
 Poor Wisp 
 Abrasion Crabs 
 Sparrows 
-Monsoon 
+Monsoons
 Foster 
 Inseparable Flowchart 
 Aversion Whine 
@@ -374,7 +373,7 @@ Hearten
 Pageantry Dimple 
 Discharge 
 0810908999 
-Altitude 
+The Altitudes
 Banded Lest Identification 
 Mouser Woodchuck 
 Award Boomerang Bailiff 
@@ -393,7 +392,7 @@ Giraffe
 Grapefruit 
 Auditions 
 Venomous Pinks 
-Channeller 
+Channellers 
 Its Sparrow Until Any Ball Outwit Microphone 
 Shrine Nab 
 Furniture Among Jugglers 
@@ -433,7 +432,7 @@ Blocker
 Reaping Carpenter Pebble 
 Pelt Bumble 
 Mutatis Weathers 
-Advertising 
+Advertise
 An Impeachment 
 Mourner Education 
 Aching Antarctic Razor 
@@ -611,14 +610,14 @@ Surround Epsilon
 These Patriotic 
 Secretarial Pagoda 
 Otters Outdoor Fortuitously Balloon 
-Versus 
+Versa 
 Noble Monsoon 
-Wretch 
+Wretches
 Boss Beaters 
 Blondes University 
 Delinquent Corroboration 
 Preludes 
-Kennel 
+Kennels 
 Thicker Forbid Delegate 
 An Comic 
 Slither Shuttles 
@@ -738,7 +737,7 @@ Swing Trump
 Movies  Beauty  All  Physicist  Protestant  Indentation  Discs  Tone  Notebook  Transponder Advisory 
 Gospel Rob 
 Platters Trance 
-Trucking 
+Truckers
 Molecular Overland 
 Batter Crossings 
 Trespassers Louse 
@@ -820,7 +819,7 @@ Stormy Fungal
 Honorable Lantern 
 Mistakes Giraffe 
 Passionate Day 
-Intermediate 
+Hard
 Cannery Hardy 
 Abundantly Brothels 
 Chateau 
@@ -828,7 +827,7 @@ Mould Debacle
 Peanuts Mountaineer 
 Fairs 
 All Tastes 
-Plunger 
+The Plunge
 Bliss Fund 
 Pulp 
 Magic Citrus 
@@ -862,7 +861,7 @@ Better Embark
 Seaside 
 Battlefield  Paperbacks  Railing  Lotus Archangels Pictures 
 Smashers Miller 
-Autumns 
+Autumnal  
 Webs Vacations 
 042601 Hilltops Trivia 
 Anxiety Clubhouse 
@@ -978,7 +977,7 @@ Plum Tribunal  Colonization Startup Necessities Clearance
 Illogical 
 Park 
 Honeydew 
-Hex 
+Bitches 
 Territory 
 Tailor 
 Unlabelled Packers Egotist 
@@ -1008,7 +1007,7 @@ Friendship University Trout Shadows
 Contraption Conversation 
 Welfare Fitter Somebody 
 Exempt Tubes Broth 
-Exempt 
+The Exempt 
 Nickels Pageant 
 Gambler Escalate 
 No Stiles Windmills 
@@ -1047,7 +1046,7 @@ Sincerely Cellars
 Untried Midpoint Diapers 
 Carpenter Heights 
 Valuation 
-Fattest 
+Fatt
 Honor Armadillo 
 Normals Between Untidy 
 Biller Nectar 
@@ -1107,7 +1106,7 @@ Interdependence Pagan
 Temperance 
 Room Fishers 
 Doe 
-Tore 
+Torn
 Charter Guyer 
 Pinnacles Joiner 
 Note Hull 
@@ -1122,12 +1121,12 @@ Telegrams
 Refreshers 
 Weirdly Raw 
 Arrowhead 
-Palace 
+Holy Mountain
 Decal Hospitality 
 Amoeba 
 Each Reverend 
 Skies 
-Collide 
+Collider 
 Braid Paste Career Decimal 
 Riverfront Skyline 
 Threatens Woodland 
@@ -1186,9 +1185,9 @@ Grand Messier
 These Distillers 
 Confederacy Foundation 
 Freedom 
-Reindeer 
+Reindeer Games
 Bunkers 
-Kneel 
+Kneeler 
 Valence Rancid 
 Gory Overcoat 
 Boos Crowds 
@@ -1270,7 +1269,7 @@ Rouge
 Sierra Stiles 
 Doe Sires 
 3302001 Cantilever 
-Sweatshirt 
+Turtleneck 
 Jets Serpent 
 Kneel Computers 
 Serpent Probes 
@@ -1281,7 +1280,7 @@ Multimedia Snapshots Advancement
 Ascension Boycott Minus Huh Bewildering 
 Indigo Auditorium 
 Proficiency Terminator 
-Mask 
+Masque
 Nick 
 Imploring Amusements 
 Cartel Horseshoe 
@@ -1296,7 +1295,7 @@ Shiver Dropper
 Startup 
 Sewing Scout 
 Pump Transpose 
-Victor 
+Victory 
 Jerk Knack 
 Toad Hardware 
 Garbage Licorice 
@@ -1310,7 +1309,7 @@ Anew Big
 Bravo  Extras 
 Belles 
 Guile Collusion 
-Shrew 
+Shrews 
 Parabola Wrens 
 Investigative Home 
 Rector 
@@ -1359,7 +1358,7 @@ Convergent
 Pacemaker Olden 
 Mariner Legislative 
 Abbe Undress 
-Brimstone 
+Brimstones 
 Hijack Friars 
 Proclaimers Averages 
 Lens Consulting 
@@ -1478,7 +1477,7 @@ Mini Herbs
 Booker 
 Factor 
 Racketeers Elders 
-Windmills 
+The Windmills 
 Elective Wizards 
 Silt Twas 
 Bowl 
@@ -1583,7 +1582,7 @@ Guiltiness Ibis
 Furniture Glow 
 Leather Compliant 
 Coward Literature 
-Indicators 
+Inspirators
 Fetter Severely Panther 
 Pea Parker Longitude 
 Choreography 
@@ -1681,7 +1680,7 @@ Parson
 Container  Non  
 Kitty Sonata 
 Sporty Shiners 
-Switchboard 
+Plyboard
 Unreliable Railway 
 Replication 
 Kinky Gourmet 
@@ -1728,7 +1727,7 @@ Cubs
 Addicted Aerials 
 Advisers 
 Float 
-Altitude 
+Attitude
 Landlord Racket 
 Wipers Dismount Forum 
 Starlet Ferry 
@@ -1795,7 +1794,7 @@ Noiseless Notebooks
 Suffocation Thermodynamics 
 Stun 
 101801 Maiden 41490 
-Crossovers 
+Crossover 
 Wasps Pavilion 
 Ticket Layoffs 
 Detective Healing Roach Cure 
@@ -1820,7 +1819,7 @@ Silencer Rebuttal
 Vacant 
 Aggregates Seduce 
 Cuisine Video Grimace 
-Amoeba 
+Amoebae 
 Lifer 
 Neither Lurks Legislature Taboo 
 Fang Switchblade 
@@ -1904,7 +1903,7 @@ Unreliable Geometry Lasers
 Stiletto Coachman 
 Biplane Messiest Pulp 
 Vapors Foundation 
-Dossier 
+Dossiers 
 Goodby Greyhound 
 Cub 
 Minuteman 
@@ -1962,7 +1961,7 @@ Affiliation Ethers
 Network Faith 
 Each Deer 
 Deck 
-Lubrication 
+The Lubrication 
 Willow 
 Agriculture Deflate 
 Apostle Wines 
@@ -2010,21 +2009,21 @@ Holy Brandy
 Segmentation Primrose 
 Beyond Stillborn 
 Pea Albacore Bitch 
-Bulldogs 
+Pitbulls
 Earthworm Spire 
 Protocol Trouser 
 Corrections Dilation 
 Dancer In Visas 
 Robin Resource 
 Signification Repent 
-Hopelessness 
+Despair
 Images Fattest Symptom 
 Pepperoni Slaughters 
 Forum Monarchs 
 Reed Buffer 
 Haunter Syndrome 
 Priest Steamboat 
-Cretin 
+Cretins 
 Fevers Pneumonia 
 Discontent Heavyweight 
 Highwayman 
@@ -2048,7 +2047,7 @@ Barbecue Princesses
 Broccoli Hackers 
 Saucers Pneumonia 
 Doughnut Airships 
-Lackey 
+Lackadaisacal 
 Tentacles Customers 
 Fallow Posters 
 Restrict Biochemical 
@@ -2058,7 +2057,7 @@ Dizzy Jitterbug
 Sampler Grenades Forklift 
 Reconstruction Popularized 
 Penetration 
-Driveways 
+Carpark
 Sevenfold Archangels 
 Chop Horse 
 Boss Arbiter 
@@ -2082,7 +2081,7 @@ Outdoors
 An Matcher 
 Aromatic Tents 
 Televisions Subcultures 
-Mutation 
+Mutations 
 Masquerade Evaporation Adjutants Elementals 
 Breadwinner Biller 
 Mount Of All Monstrosity 
@@ -2171,7 +2170,7 @@ Locksmith Verbally Exploiter
 Skyline 
 Artichoke 
 Congress Nicknames 
-Startup 
+Startups 
 Grownup Iodine 
 Attention Poker 
 Would Gables 
@@ -2308,8 +2307,8 @@ Swimsuit Beagle
 Bilk Comeback 
 Betrayal 
 Migrant Industries 
-Cannonball 
-Average 
+Cannonballs 
+Mean
 Undergo Dressers  Era  Committee  Shortstop Rancid 
 Peas 
 Clash Penumbra 
@@ -2330,7 +2329,7 @@ Chanter Bunny
 Joystick 
 Sitter Cavity 
 Ranch 
-Caboose 
+Engine
 Flyer Ketchup 
 Oceanography Compliant Abode 
 Tentacles Squads 
@@ -2357,7 +2356,7 @@ Evacuation
 Steamboat Hoops 
 Pinhole Posture 
 These Biologist Unguarded 
-Universe 
+The Universe 
 Registry Priest 
 Hydra Lion 
 Maniacs Lawn 
@@ -2390,7 +2389,7 @@ Widget
 Sonata Starfish 
 Ritual As Scatterbrain 
 Roustabout Quick 
-Motivation 
+Motive 
 Eater Saver 
 Earthly Polytechnic 
 This Electronics 
@@ -2434,12 +2433,12 @@ Recitation Capital
 Bunkhouse Gospels 
 Slither 
 Employment Rapids 
-Gleanings 
+Glean
 Heathen Vanguard 
 Booster Dusk 
 Downers Playtime 
 Spotlight Fountains 
-Plume 
+Plumage 
 Another Librarian Browse 
 Colliding Feather 
 Regeneration Statistical Assemblages 
@@ -2475,7 +2474,7 @@ Brimstone
 Dean Vermin 
 Civic 
 Neither Prowlers 
-Gopher 
+Gophers 
 Geological Cobalt 
 Mnemonic Treasury 
 Hoe 
@@ -2518,7 +2517,7 @@ Valuation Heres
 Cutest Ashen 
 Another Crypt 
 Each Cowboys 
-Outdoors 
+The Great Outdoors 
 Pea Comics 
 Jails  Antique  Court 
 God Ice 
@@ -2555,7 +2554,7 @@ Fingerprint
 Bulldogs Deadline 
 Gorilla Orchestra 
 Rot Messiest 
-Willow 
+The Willows
 Neither Annex 
 Pogo Mystic Epitaph 
 Dunk 
@@ -2699,7 +2698,7 @@ Deceit Gross Bright
 Cricket Equalizers 
 Aquarium Severs Herbs 
 Championship Embark 
-Rages 
+Rage 
 Each Casuals Squareness 
 Rotor 
 Malevolent Hoar 
@@ -2775,7 +2774,7 @@ Sage
 Petters Etiquette 
 Burden 
 Maximizer Bison 
-Socialize 
+Socialites
 These Abuse 
 Any Ascension 
 Normalization Alder 
@@ -2909,7 +2908,7 @@ Scram Gunner  Sneaker
 Abnormally Schema 
 Expectation 
 Anus Rotator 
-Wagoner 
+The Wagoners 
 Agricultural Curdle Conditioner 
 Farm Cascade 
 Wheels Homemaker 
@@ -2965,10 +2964,10 @@ Bangs Rentals
 Viper Shatterproof 
 Deluxe Block 
 Student 7138 
-Deserter 
+The Deserters
 Interceptor Accomplishment 
 Interact 
-Bye 
+Bye-bye 
 Pester Bulldog 
 Careless Molehill Reporter Ambush 
 Indecent Specialist 
@@ -2997,7 +2996,7 @@ Copious Thatch
 Serendipity Shoal Skipper Recursive 
 Surveying Medal 
 Partaking Clay Earthworm Hallowed 10162000 
-Fox 
+Vulpa
 Provinces Frieze 
 Collide Beatitude 
 Crossword Maid 
@@ -3083,7 +3082,7 @@ Blossoms Extras
 Bloat Brandishes Miniaturization 
 Whirl 
 Proffers Exercises 
-Equestrian 
+Pedestrian
 Veils Clockwork Impenetrable 
 Claustrophobic 11351746 
 Determinism 
@@ -3100,7 +3099,7 @@ Immediacy Greedy Suspension
 Clipper Circumpolar Bush 
 Clout Gateways 
 Armadillos Employable 
-Evacuation 
+The Evacuation 
 Supernatural Inspector 
 Cherish Corder 
 Fittingly Sonnets 
@@ -3345,7 +3344,7 @@ Sumac Diggers
 Ballerinas Pun 
 Faithless Dialect 
 Boxcar Postman 
-Culpa 
+Mea Culpa 
 Fiend Heard 
 Dooms Cavalry 
 Basketball Preacher 
@@ -3400,7 +3399,7 @@ Revised
 Croft 
 Trout Merchandise 
 Cabin Azure Choppers 
-Airports 
+Airport 
 Valuation Slays 
 Sprees Rhapsody 
 Headache  Catastrophe Delay 
@@ -3414,8 +3413,8 @@ Lion Stillborn
 Listings Gentry Bull 
 Retroactive 
 Gable Seahorse 
-Shakers 
-Floater 
+Shaker 
+Dirigible
 Catalogs 
 Whiter Lamprey Strain 
 Gyroscope Shatterproof 
@@ -3481,7 +3480,7 @@ Hashish
 Veils 191997 
 Blossom Hull 
 Potash Ducks 
-PDT 
+TDP 
 Examines Rings Strict 
 Vacation Broadband Shun 
 Miracle Manufacturer 
@@ -3495,7 +3494,7 @@ Breathe Apricot
 Commando 
 Donkey Styli 
 Proton Voucher 
-Insane 
+Same 
 Gate Glossary But Any Rhapsody 
 Explosive Dressers 
 Lounge Witch 
@@ -3537,7 +3536,7 @@ Radioactive Web
 Orchard Digger 
 Every Blobs 
 Sycamore  Horizon  Any  Quantum Rentals 
-Eligible 
+The Eligibles
 Peppers Panthers 
 Folk Turnings 
 Curfews Solitaire 
@@ -3583,7 +3582,7 @@ Sinker
 Magpie Mockingbird 
 Either Airlock 
 Skin Jackass 
-Store 
+Storage 
 Jerk Annex 
 Sight Classical 
 Chicks Cottonmouth 
@@ -3619,7 +3618,7 @@ Both Gate
 Malnutrition And Each Minds 
 Big 
 Loom Syndicate 
-Sisters 
+The Three Sisters 
 Bagger 
 Settler Pill 
 Steamboat Suitcase 
@@ -3681,7 +3680,7 @@ Errata Daddy Aviator
 Rob Or Stochastic Detractor 
 Lake Lemmings 
 Unbroken Existing 
-Bye  
+Eye
 Maid 
 This Clay Our 
 Congratulation Boo 
@@ -3691,9 +3690,9 @@ Clinch
 Subtitles Musings Tunnel 
 Misty Brother 
 Antennas 
-Pickup 
+Shitty Pickup 
 Winer Diffuser 
-Maps 
+The Cartographers
 Poisoner Pence 
 Newlywed Planetary 
 Martyrs Guidebooks 
@@ -3740,9 +3739,9 @@ Sweepings Cripple
 Onion 
 Geological Whiskey 
 Tour 
-Forester 
+Ranger 
 Octagon 
-Hoes 
+Three Hoes 
 Blitzkrieg Squid 
 Merchandise Complex 
 Yellow 
@@ -3806,7 +3805,7 @@ Issuer
 Clan Pump 
 Grove Ticker 
 Millionaire Before Powder 
-Supergroup 
+Superman
 Sale Strip 
 3302 Pavilion Nightingales 
 Neither Anthologies 
@@ -3814,7 +3813,7 @@ Unconditional
 Commonwealth Glazer 
 Retroactive Signet 
 Iris Rattle 
-Switchboard 
+Switchbored 
 Bypass Plus Halogen 
 Speck 
 Radiator Continental 
@@ -3831,7 +3830,7 @@ Fate Elk
 Chronology 
 Geophysical Patronize 
 Commons Feudalism 
-Speck 
+Speckled 
 Don Bunkhouse 
 6142000 Atrocity 
 Strait Jails 
@@ -3971,7 +3970,7 @@ Assembler Operates
 Moonlight Grimace 
 Bombs Binocular 
 Pole Lawns 
-Dyer 
+Bud Dwyer
 Unsolved Wrens Sirup 
 Carver In Reliever 
 Elementals Foolish 
@@ -3994,16 +3993,16 @@ Canning
 Muffs 
 Explosive Kisses 
 Chlorophyll Rounder 
-Checker 
+Checkers 
 Pong Muffs 
-Observatory 
+Observer 
 Historic Pouches 
 Stringer Jury 
 Another Mediate Laboratories 
 Senselessly Schemer 
 Colloquium 
 Flam Sharp 
-Beggars 
+The Beggars 
 Caverns Micro 
 The Spares 
 Painter Committee 
@@ -4055,15 +4054,15 @@ Maple Downers
 Apple Basins 
 Debaters Upland 
 Summary 
-Handbags 
+Fanny-pack 
 Sloper Newborn 
 Apricot Moderation 
 Bagger Astral  
-Barbecue 
+Grills
 Bravos Conformity 
 Mark Minus Dusty 
 Slid States Archangel 
-Pelican 
+The Pelicans 
 Novels Repairs 
 Opera Botanical Distributor 
 Shadowy Squirrel Cheaters 
@@ -4081,7 +4080,7 @@ Birch Sublime
 Terminate Threatens 
 Villains Lip 
 Allied Jeopardy 
-Horseshoe 
+Horseshoes 
 Killings 
 Bluefish Hedges 
 Northbound Seeker 
@@ -4100,7 +4099,7 @@ Brook Cow
 Noise Mallet 
 Airships Saucers 
 Corrosion Seductive 
-Skylark 
+Skylarking 
 Parker Absentee 
 Ago Metallic 
 Acquaintance  Unfaithfulness  Calorie   Libido 
@@ -4134,7 +4133,7 @@ Gleanings
 Nickels Threshold 
 Bittersweet Inhaler 
 Transmission Treachery 
-Collie 
+Border Collie 
 Developer Fellowship 
 Reset Squeamish Quixotic 
 Further Waistcoat 
@@ -4397,7 +4396,7 @@ Smoke Mailman
 Bracelet Mollusk 
 Glitters Diaries 
 Computational Scrimmage 
-Commonwealth 
+The Country
 Sweetest Trip Frigate 
 Inverse Peace 
 Crawler 
@@ -4472,7 +4471,7 @@ Telephone Cassette
 Choppers Redeemer 
 78636938226  7238 
 The Robot 
-Vineyard 
+Vineland 
 Mailman 
 Tracers Supergroup 
 Rye Acetate 
@@ -4506,14 +4505,14 @@ Maze Ugh
 Integrative Preacher  Rupee 
 168222503344626528 Clipper 
 Privileged Stamina 
-Bowman 
+Longbow
 Lemon 
 Earls 
 Fanning Winer 
 Chillers Locator 
 Duster Egghead 
 Both Cam 
-Disciple 
+Discipline 
 Font 
 Deposit 
 Pew 
@@ -4530,7 +4529,7 @@ Metal Wagon
 Smut 
 Each Pickup Lingua 
 Ledger 
-Fireproof 
+Waterproof
 Wiry Surroundings 
 Sept Moral Kitten 
 Apple Embrace 
@@ -4543,8 +4542,8 @@ Infringement Germinal
 Raisin Loudness 
 Unsolved Tawny 
 Poor  Deceleration  Plush 
-Stationmaster 
-Scuba 
+Watchmen
+Scuba Gear
 Chocolate 
 Previews Sailboat 
 Goblet Ewe 
@@ -4787,7 +4786,7 @@ Genie
 Clan Orbiter 
 Baby Frequenting 
 Caldera Catnip 
-Swarm 
+The Swarm 
 Pastel  Cozier  Gopher 
 Restaurants Modulus 
 Tax Jets 
@@ -4873,7 +4872,7 @@ Gauge Straps
 Sanitary Goodbye 
 Stray Forefather 
 Sharer Libido 
-Pears 
+The Peaches
 Ostrich Anatomic 
 Either Easter Uplinks 
 Silt Acquiesce 
@@ -4909,7 +4908,7 @@ Smithy
 Caterer Worldwide 
 Supper Soundings 
 Beget Checkbook 
-Lark 
+Sparrow
 Southpaw 
 Shopkeeper Like Crown 
 Armadillo Guile 
@@ -4935,7 +4934,7 @@ Shave Realest
 Every Picayune Or Selector 
 72394 
 Outlast Spinster 
-Legalization 
+THC
 Drake Oceanography 
 Wrangler Apocalypse 
 Ski 
@@ -4960,7 +4959,7 @@ Technological 04
 Potters Elephant 
 Bellboy 
 Poacher Learner Communists 
-Math 
+Maths and Science
 Journeymen Squabble 
 Optionally Merchandise 
 Careful Velocity 
@@ -5077,7 +5076,7 @@ The Ode
 Alphanumeric Puppets 
 Tacit Archive 
 Another Dentists 
-Oddity 
+Oddities 
 Medium Eigenstate 
 Brevity 
 Induct 
@@ -5096,7 +5095,7 @@ Beholder Truce
 Researches 
 Pulse 
 Movement Spheres 
-Bunkers 
+Barracks
 Narcissus Parasitic 
 Ibid Gorilla Titters Browns 
 Butte 
@@ -5116,7 +5115,7 @@ Conformity Theater
 Paycheck Chins 
 Haddock Scout 
 Strict Northwest 
-Bespoke 
+Mispelled
 Shrew Frame 
 Crossroad Nobles 
 All Repercussion Layoffs 
@@ -5152,7 +5151,7 @@ Derby Sayers
 Parachutes Evacuation 
 Steamer Influences 
 Recoil Steaks 
-Bye 
+Bye-the-bye 
 Homeward Drugstore 
 Hail Devil 
 Rebuild Per Suicides 
@@ -5164,7 +5163,7 @@ Any Salmon
 Under This Ascetic 
 Omnibus Saint Mutiny 
 Sinusoidal Tiger 
-Rank 
+Plank
 Kitchens 
 Cabdriver Phonographs 
 Worthy Pica 
@@ -5182,7 +5181,7 @@ Deal Travail
 Hydraulic Fireproof 
 Gingham Achiever 
 Brides 78751 
-Stones 
+Stoners 
 Toaster Ague Prosecution 
 Green Tweed 
 Underneath Hoodlum Saves 
@@ -5236,7 +5235,7 @@ Fighter Seahorse Breakers
 Cargoes Navigator 
 Indefensible Goodwill Socioeconomic 
 Upstream 
-Hitchhiker 
+Hitchhikers 
 Prosecutor Bricker 
 Raccoon Poisoner 
 Strokers 
@@ -5250,7 +5249,7 @@ Nectar Preachers
 Shockers 
 Hedges Escapade That Huntsman 
 Spin Candle 
-Begotten 
+Misbegotten 
 Garbages Ballroom 
 Barb Woody 
 Salter Resistor 
@@ -5311,7 +5310,7 @@ Glow Unlike Gut
 Trackers Monstrosity 
 Oriole Booker 
 Babes 
-PDT 
+POTM 
 Urchins Seahorse 
 Caboose 
 Railway Ward 
@@ -5351,7 +5350,7 @@ Hitchhiker Jury
 Every Hashish 
 Junction Fames 
 Explore Misgivings 
-Cuisine 
+Cuisinart 
 Inactive Octagon 
 Annoyances Seaman 
 Chanter Sulphuric 
@@ -5393,7 +5392,7 @@ Pervert Ink
 Both Terminologies 
 King 
 Blushing Agency 
-Hologram 
+Holodeck
 Mongoose Reap 
 Abatement Extravagant 
 Design Needles 
@@ -5415,11 +5414,11 @@ Hall Posters
 Saga Distance 
 Ubiquity 
 Supernatural Clove 
-Widener 
+The Narrows
 Priory 
 Corpses Raccoon 
 771267 Incalculable Dolphins 
-PDT 
+Krum
 Agriculture Converters 
 Waveform 
 Recipes Smithereens 
@@ -5439,7 +5438,7 @@ Thundering Spire
 Pistol Archbishop 
 Portending Outpost Shifters 
 Denouncing Eightfold 
-Brandywine 
+Gin
 Cam Biscuit 
 Gaiety 
 Serendipity 
@@ -5567,14 +5566,14 @@ Skylark Jure Valve
 Pea Swivel Spore 
 Beryl 
 Nary Wraps Attic 
-Wretch 
+Wretched 
 Whirl Churchyard Till Some Babes 
 Aloha Selector 
 Numerable Diploma Berth Squareness 
-Forest 
+Jungle
 Ray Waterfalls 
 Mini Bigotry 
-Floater 
+Floating
 Crash 
 Boathouse Codeword Arrowhead Skyline 
 Curse Berets 
@@ -5674,7 +5673,7 @@ This Master
 Boatyard Perseverance Cabs 
 Larder Parakeet 
 Squeeze Redirect Peer 
-Exempt 
+Exemption 
 Merry Dyers 
 Reminders 
 Methodical 
@@ -5703,7 +5702,7 @@ Qualm Clogs
 Extol Calendars 
 Shadows Fink 
 Enter Applicant 
-Dent 
+Dentist 
 Caribou 
 Shore 
 Regressive Passionately 
@@ -5837,7 +5836,7 @@ Mantissa Industries
 Meadow Ladies 
 Fire 
 Outbound Breweries 
-Motivation 
+Demotivation 
 Kilowatt Blabbermouth 
 Brown Rooter 
 Needlework An Grandpa 
@@ -5872,7 +5871,7 @@ Insurance Century
 Average 
 Chocolate  Archangel 
 Hijack 
-Gate 
+Gateway 
 Funnel 
 Thatch Crush 
 Stationmaster Farm 
@@ -5939,7 +5938,7 @@ Spheres Idiocy Mistakes
 All Directrix Shoemaker 
 Chewers Squeeze 
 Spoiler Consumer 
-Hookups 
+Roofied
 Symbolism 
 Visit Soda Caster 
 Surgical Pancakes 
@@ -5978,7 +5977,7 @@ Tit Smithereens
 Almighty Unborn 
 Pandemonium Tremor 
 Messenger Brooks 
-Hideout 
+Hideaway
 Don Scoot 
 Shortstop 
 Hereditary Ball 
@@ -6019,7 +6018,7 @@ Interface Puncture
 Commission Hawker 
 Wings 
 Calculator Bright 
-Meals 
+Wheels
 Reasonings 
 Deliverer Tassel 
 Loafer Fetus 
@@ -6047,7 +6046,7 @@ Educators Mountaineer
 Fixers 
 Banking 
 Radiantly Pioneering 
-Babes 
+Plebes
 Seamen Police 
 Heel Generosity Micro 
 Shopping Qualm 
@@ -6100,7 +6099,7 @@ Bluffing Rag
 Bray 
 Ax Shin 
 Noonday 
-Nebula 
+Horsehead
 Curfew 
 Sanitation Shook 
 Rentals Adagios 
@@ -6120,7 +6119,7 @@ Interpretive
 Universal 
 Butterball Vampire 
 Affective Blimp 
-Tallow 
+Lie Fallow
 Daydream Rocks 
 Ridge Rant 
 The Artist Constitution 
@@ -6140,7 +6139,7 @@ Filter Grim
 Citadel Spore 
 Conflagration Kissers 
 Saintly 
-Munch 
+Captain Crunch
 Sands Thesis Lobby 
 Subjectivity Color 
 Cane 
@@ -6169,12 +6168,12 @@ Kinky Picayune
 Dependable Sonny 
 Foothill Tour Overseers 
 Chop Pinhole 
-Matchers 
+Watchers
 Stainless 
 Omit Trick 
 Chubby Larder 
 Interactivity Lockup 
-Femininity 
+Les Femmes
 Stereotyped Peninsula 
 Breeder Birdbath 
 Those Round Whisper Cocks 
@@ -6240,7 +6239,7 @@ Monochrome Wharf
 Frost Acorn 
 The Planet 
 Birthplace Spider 
-Dismount 
+Knights
 Sonata Belles 
 Enslave Milky 
 Guiltiness 
@@ -6249,7 +6248,7 @@ Sheet Fingers
 Profiles Bullet 
 Neither Prejudice Homer 
 Cocks Circle 
-Pew 
+Pew-pew-pew 
 Tigers 
 Drops Homemaker 
 Tingles Amongst Apartments 
@@ -6262,7 +6261,7 @@ Kicks Thaws
 Codes Ignition 
 Unwind Poncho 
 Jeopardize 
-Industrial 
+Saints
 Trail Magna 
 Pearl Fractions 
 Pea Vacant Inks 
@@ -6282,7 +6281,7 @@ Ferry Up Bumper
 Bunk Snippet 
 Pixel 
 Acoustic Opcode 
-Chokers 
+Choke Collar 
 Pharmacy Cheating 
 My Pinto Smithy 
 Pokerface Acetate 
@@ -6291,7 +6290,7 @@ Operator Schema
 Staves 
 Windmills 84033 
 Binaural Qua 
-Dearest 
+Mommy Dearest 
 Commander 
 Lacquer Tribunal 
 Inhaler Opprobrium 
@@ -6304,8 +6303,8 @@ Pea Conversion Extents
 Trick 
 Civilian Checkout 
 Lynx Snowflake Laziest 
-Muffs 
-Mighty 
+Earmuff
+Strong Sword
 Lawgiver Renown Clone 
 Pea Asymmetric 
 Gory Leeway  Waxer  Regresses 
@@ -6543,7 +6542,7 @@ Oxide
 Bikes Acre Aright 
 Nights Sash 
 Deceivers Mutter 
-Southwest 
+Northeast
 Aborigine Trance 
 Lawn Grades 
 Sunset Kneel 
@@ -6555,7 +6554,7 @@ Both Southerners
 Marching 
 Mesquite 
 Directives Maple 
-Ayes 
+Eyes 
 Some Slim Criminal 
 Protocol Forums 
 Fink 
@@ -6626,7 +6625,7 @@ Pun
 Dynasty Homicide 
 Snowfall Toward Drank 
 Foxes Gleanings 
-Hashish 
+Hashishim 
 Priori 
 This Parlor Thermodynamics 
 Channelling Subject 
@@ -6642,7 +6641,7 @@ Peddlers Pumps Distributors
 Shifters Hashish 
 Suspending Musings 
 Creek Chartered 
-Knights 
+Chevaliers
 Commotion Nominate 
 Sight Fiat 
 Taker Sun 
@@ -6668,7 +6667,7 @@ Unfit Desk
 Robber Nor Pea Bunkhouse Tag 
 Temperamental Pew 
 Infamy Roam 
-Remonstration 
+Monstrance
 Each Bovine 
 Broker Swing 
 Symphony Unconstitutional 
@@ -6708,7 +6707,7 @@ Digger Contagion Bluefish
 Each Whom 
 Char Abatement 
 Nothings Map 
-Antennas 
+Palpi
 Meta Microphone Infidels Another Queens 
 Institute Meeker Granddaughter 
 Thinkers 
@@ -6727,14 +6726,14 @@ Dictator
 Nontechnical Cuckoo 
 Variables Hoes 
 Kitty Maintenance 
-Shaker 
+Quaker
 Bunny 
 Overseer 
 Choppers Redeem 
 Rinse Veterinarians 
 Pity Widens 
 Aquarium Boob Levee 
-Packing 
+Packing Heat
 Beckoning Thrust 
 Manor Stores 
 Curtain Osmosis  Calypso 
@@ -6752,7 +6751,7 @@ Foreman
 Fathom 
 Hurricane Planer 
 Stormy Twinkle 
-Wing 
+Wingmen 
 Stapler 3319 
 Violator 
 Swingers Eternal 
@@ -6774,7 +6773,7 @@ Birds Indeterminacy
 Foamy 610779 
 Channels Collegiate 
 Hibernate Caliph 
-Periscope 
+Oculus
 Nobles Tidings 
 Minnows 
 Eightfold Exile Medium 
@@ -6794,16 +6793,16 @@ Stratification Cooperatives Thigh
 Airport Welsh Sedition 
 Parasol 
 Bunting But An Ray 
-Roam 
+Rome
 Boxcars 
 Marketplace Vault 
 Smelt Parakeet 
 Vanquish 
 Buggies 
 Utopia Woodpecker 
-Asphalt 
+Cement
 Smelter Forester 
-Squirrel 
+Chipmunks
 Aerodynamics Deus Unbound 
 Both Butterflies 
 Bantam 
@@ -6823,7 +6822,7 @@ Morphine
 Undertakers 
 Neither Starling Aerials 
 Refresh Eradicate 
-Tomatoes 
+Zuchinni
 4118 Aura 916 
 Reception Diagnostic 
 Battle 
@@ -6832,7 +6831,7 @@ Some Test
 Acacia Suitcase 
 Pumps Pagan 
 Pork Borderland 
-Parakeet 
+The Parrots
 Advertising Juniper 
 Optic Debacle 
 Harem Chubby 
@@ -6877,7 +6876,7 @@ Either Elision Latched Hypertext
 Syndrome Skylight 
 Dreary Luscious Fearless 
 Those Cherubs 
-Ermine 
+Pluto
 Utopia Gene 
 Library 
 Voyager Eliminator 
@@ -6905,7 +6904,7 @@ Nary Free Abolition
 Campaigns 
 An Legacy 
 West Spicy 
-Deck 
+Decker 
 Titters 20001001 
 Skinners Ohm Outsider 
 Upward Dialect 
@@ -6930,16 +6929,16 @@ Visibility Metaphysical
 Objectionable 
 Dossiers Foldout 
 Inspector Sinker 
-Chaser 
+Absynth
 No Illicit Religions 
 Node Trip 
 Dwarfs 
 Communicative Quaternary 
 Empiricist Stripper 
-Waterproof 
+Waterbed
 Compete Swimmer Sea 
 Coalesce Meaningless 
-Degrees 
+Fahrenheit
 Every Outlaw Cookery 
 Roach Serenity Hitchhike 
 These Scoot 
@@ -6967,7 +6966,7 @@ Greeter Twelves
 Thumbs Invites Crackpot 
 Diagnosis Mole 
 Eager Slant 
-Spear 
+Sword
 Kissers Squash 
 Officious Rib Hunt 
 Pith 
@@ -7000,7 +6999,7 @@ Coward Resonance
 Every Inspires 
 Creep Alphabetical 
 Ball Seeker 
-Increment 
+Oscillator
 Disclaimer Harpers 
 Macintosh Flounder 
 Moisture Highway 
@@ -7050,7 +7049,7 @@ Lengthy
 Undress Fetters 
 Kid 
 Victory Consumable 
-Fasteners 
+The Seatbelts
 Drugstore Averages Oscillations 
 Brat 
 Ware Balcony 
@@ -7094,7 +7093,7 @@ Breadwinner
 Rover Pitch 
 Don Dibble 
 Subcultures Ward 
-Ship 
+Shipyard 
 Stabilizer Sprite 
 Briefs Mu 
 Pessimist Campaigns 
@@ -7146,7 +7145,7 @@ Bud Juxtapose
 Candle Hedgehog 
 Floater 
 Soda 
-Ridge 
+Ridgeracer 
 Alliance Valence Trigonometry 
 Shifters Echelon 
 Shard Finance 
@@ -7198,7 +7197,7 @@ Premeditated Germinal
 Clove Beamer 
 Pacific 
 Football Scoundrel 
-Snail 
+The Slugs
 Terminator Capitols 
 Safari Ski 
 Bars Limits 
@@ -7216,7 +7215,7 @@ Woofs Fugue
 Dunk Racket 
 Flamboyant Lifer 
 Deserters Scary 
-Peanuts 
+Almonds
 Hedonist Credit 
 Dimmest Journal 
 Lounge 
@@ -7254,7 +7253,7 @@ Rooftop Creeper
 Equatorial Renewable 
 Twinkle Login 
 Perturbation Forklift Picnic 
-Boxcars 
+Tractor
 No Imprecise Pickup 
 Neither Huh 
 Electricity 
@@ -7289,7 +7288,7 @@ Mussels Prosecution
 Harvest Glitter 
 Breach Lifetimes Wipers 
 Gaiety Avail 
-Burden 
+Tyler Durden
 Cook Genie 
 Colts Surgery 
 Communicator Pinto 
@@ -7344,7 +7343,7 @@ Azimuth Tribe Nor Each Tiring Agent
 Forcible Objectionable 
 Bipolar Drizzle 
 Pine Pray Vault 
-Vanquish 
+The Defeaters
 Kinder Arrangement  Spoiler 
 Universals 
 Each Chillers Corruptible 
@@ -7417,7 +7416,7 @@ August Substructure
 Colts Scout 
 Warship Realest Mark 
 Reed Hooper 
-Grudge 
+The Grudge 
 Miser Gory 
 Intermediate Monkeys 
 Turquoise 
@@ -7429,7 +7428,7 @@ Rodeo Memoirs
 Meals Butler 
 Clover 
 Renewable Duality 
-Lighthouse 
+Outhouse
 Domains Curdle 
 Saber Series 
 Navy 
@@ -7487,14 +7486,14 @@ Language Pavilion
 Recedes Gang 
 Subs Aright 
 Silencer Foamy 
-Reception 
+Deception
 Swift Chairperson 
 Brick 
 Wind 
 Wanderer Balsam 
 Overalls Hypertext 
 Anchor 
-Protocols 
+The Protocol
 These Slant Trigonometry 
 Rings Exempt 
 Every Topological 
@@ -7534,7 +7533,7 @@ Hippopotamus Temperamental
 Silicon Utters 
 Midnight Tomorrows 
 Prudential Purple 
-Captains 
+Sailors
 Unwritten Averages Courier 
 Blink Elite 
 Discuss Jealousy 
@@ -7551,7 +7550,7 @@ Phantom Palladium
 Falcon Playground 
 Martingale Orchard 
 Advantage Minus Publishing 
-Rosary 
+Rosemary 
 Codeine Trader 
 No Queens 
 No Scholastics Fetter 
@@ -7630,7 +7629,7 @@ Utopia Encryption
 Nary Sharpen Wholesalers  
 Lion Allegretto Scoring 
 Proclaimers 
-Acorn 
+Justin
 Overcome Manning Immodest 
 Temperance Mink 
 Bifocal Diggers 
@@ -7678,8 +7677,8 @@ Bicycles Spike
 Loon Woodchuck 
 Ravine Debris Unreasonable 
 Nurse Psycho 
-Primate 
-Acceleration 
+Orangatuan
+Maximum
 Belle Thinkers Virgin 
 Defunct Libido 
 Acorn Dispatchers Brandywine 
@@ -7696,7 +7695,7 @@ Trials 555555 Fumble
 Pausing Lamprey 
 Terminate Lawless Bagger 
 Checkbook 
-Nestle 
+Nettle
 Capitol 
 Ford Dodger 
 Anew Pavements 
@@ -7735,7 +7734,7 @@ Sale Furniture Playwrights
 Vita Hugging 
 Baron Duality 
 Hooker Scythe Carver 
-Almighty 
+God 
 Northern Flashers 
 Monographs 
 Pump Bullet 
@@ -7749,7 +7748,7 @@ Soliloquy Shifters
 Barber Ambush 
 Dialup Placebo 
 Televisions Maps 
-Hashish 
+The Assassins 
 Redemption Bottleneck 
 Reconnection Caboose 
 Stallion Symptoms 
@@ -7763,7 +7762,7 @@ Neither Ecclesiastical Pine
 Boatyard 
 Their Bless 
 Bump Technological 
-Exclaim 
+Bros
 Digitization 45870 
 Hairpin Finger 
 Mutt Homes 
@@ -7806,7 +7805,7 @@ Brunches
 Backwater Golden 
 Paradigm 
 Casuals Masquerader 
-Tonnage 
+The Metrics
 Settings 
 Natures Violate 
 Scholastic 
@@ -7860,7 +7859,7 @@ Sorority Inland
 Crossroad Deceiver 
 All Altitude Permeation 
 Awl 
-Onion 
+Leeks
 Librarian Cancels 
 Questionnaires Stripes 
 Gulls Suffrage 
@@ -8045,7 +8044,7 @@ Gun Aright
 Affection Airlock Sirs 
 Bibliographical Poke 
 Our Politicking Collaborates Plains 
-Antisocial 
+Social
 Oaks To Pirates 
 Sickle Vier 
 Interference Oats 
@@ -8061,8 +8060,8 @@ Superior Victor Yourself
 Contest Firelight 
 Minuteman Rating 
 Doghouse Sail 
-Inspires 
-Postman 
+Sweat
+Kevin Costner
 Rambler Fifth 
 Chase Lobes 
 Policy Hoar 
@@ -8097,7 +8096,7 @@ Razor 2627
 Surf Pal Comeback 
 Severance Mucus 
 Liquidation Inaccessible 
-Noontime 
+The Noons
 Anxiety Waitresses 
 Ski Delinquent 
 Insurance Axes 
@@ -8134,10 +8133,10 @@ Fattest Hereafter
 Undo Hitchhike 
 061500 Ache 
 Quick Scram 
-Vanguard 
+Phalanx
 This Surgery Optimist 
 Biters Gravitational 
-Cassette 
+The Tapes
 Hourglass Overalls 
 Portals Neutron Plus Turquoise Vale 
 Burnings Hopelessness 
@@ -8156,7 +8155,7 @@ Determinism Or Cloak Python
 Lifetimes Mathematics 
 Peep Dells 
 Hourglass Lasso 
-Luncheon 
+Brain Lunch
 Insensitive Court 
 Hamster Approvingly 
 Either Intrepid Bangle Aeronautics 
@@ -8164,7 +8163,7 @@ Straps Whether
 All Logic 
 Hens Poem Pantheist 
 Juicy Coke 
-Bantam 
+Batman
 Eightfold Critic 
 Cityscape Locating 
 This Dishonesty Ersatz 
@@ -8202,9 +8201,9 @@ Artery Travelers
 Minicomputers Molehill 
 Stage 
 This Lobby 
-Papers 
+Paper Maiche 
 Either Stylistic 6867 
-Neurosis 
+Psychosis
 Fiat Rollback 
 Switchboard Boxcar 
 Sedition Purple 
@@ -8216,7 +8215,7 @@ Sphinx  Plunder  Troubleshooter
 Crasher 
 Copying Aspirations 
 The Broad Lovers 
-Universe 
+University Heights
 Pity 19990418 
 Resume Flowers 
 Megabit Brief 
@@ -8252,7 +8251,7 @@ Adaptive Opium
 Carrot Slays Republican 
 Transformer 
 Soup Slippery 
-Philosophers 
+The Pragmatists
 Analytic 
 Ubiquity Lustrous 
 Gate Carp 
@@ -8290,7 +8289,7 @@ Transit Cow
 Swoon Muskrat 
 Debutante 
 Eyeball Amino 
-Panther 
+Cheetahmen
 Chlorophyll Thrasher 
 Swab Dragons Visa 
 Ace Ensemble 
@@ -8318,7 +8317,7 @@ Furlong Ashman
 Wrench Soda 
 041001 
 All Series Stores 
-Mourner 
+Sussanah
 Elective Coop 
 These Idiosyncrasies 
 Asphalt Lark 
@@ -8358,16 +8357,16 @@ Annuals Pears
 Records 
 Flashback Engender 
 Extravagant Rail 
-Forester 
+The Forest
 Airplane Subtotal 
 Glade Wave 
 Matrimony To Bathe 
 Airship Rude 
-Consult 
+The Shrinks
 Spoiler Random 
 Rhymes Mingle 
 Eucalyptus Whirls Tan 
-Highwayman 
+The Robbers
 Nebular Diagnostic 
 Shop Rolling 
 Tawny 
@@ -8395,7 +8394,7 @@ Gardeners Lamb
 Swallow 
 Sleepy Diesel 
 Explorer Bushing 
-Affiliation 
+The Team
 Byte Somatic 
 Hallow Stiffs 
 Dragoon Alongside Rids 
@@ -8407,14 +8406,14 @@ Disturbance Anarchy
 Center Reap 
 Kitchen Eradicate 
 Antiquarians Parker 
-Undertakers 
+The Pallbearers
 Platoon Pendulums 
 Illusion Cautioners 
 This Sills Scissors 
 All Grind 
 Antique Unsound 
 Baptism 
-Beggars 
+The Urchins
 Sunspot Caterpillars Radiators 
 Sketchpad Reviewer 
 Coachman Purse 
@@ -8463,7 +8462,7 @@ Avenues Irrational
 Sorrow Library 
 Suction 
 Brunette Mechanics 
-Oxide 
+Nitrous
 Radioactive 
 Quo Hatchet 
 Bookstore Totality 
@@ -8492,7 +8491,7 @@ Conversational Viceroy
 Chlorophyll Poacher 
 Destiny Sweatshirt 
 Deacon Gospels 
-Brandy 
+Brand 
 Illogically Capacitors 
 Chucks Salad 
 Withdraws Cures 
@@ -8507,11 +8506,11 @@ Garbage Reals
 Munch Sham 
 Pariah Cloud 
 Amplification Twang 
-Guiltiness 
+Guilt Trip
 Garage Gild 
 Embassy Stitches 
 Mullah Pancakes 
-Intrepid 
+The Cannibals
 Flora Screenings 
 Mike Sweepings 
 Admirals 
@@ -8522,7 +8521,7 @@ Neither Indecent
 Peasant Earls 
 Giant 
 Warranty Bathers 
-Vaginas 
+Vagina Wipes 
 Nebula Pairing 
 Brothels Playground Nor Those Assistantship Ceremonies 
 Beaver Assistant 
@@ -8546,8 +8545,8 @@ Train Betting
 Acre Espy 
 Imagination Sevens 
 Bird 
-Hereafter 
-Spotty 
+Jester
+Leopard
 Pincushion Stallings Respondent Promoter 
 Lighting Brewing 
 Stutter Gild 
@@ -8565,25 +8564,25 @@ Lobes
 Dandy 
 Surveyor Abovementioned Transitions 
 Cosmopolitan Geological 
-Lifer 
+Downers
 Tamer Explosive 
 Insomniac 
 Overview Playmate 
 Apogee Mosque Mama 
 Saddle Symphonic 
-Turquoise 
+The Turtles
 Infest Resources 
 Browbeat Acres 
 An Ridicule 
 Linguistics Intramural 
 Cathedral Fullness 
-Breadwinner 
-Mask 
+The Lords
+Plastic
 Silliest Alongside Wagers 
 Aloe Piers 
 Plains Minnow Seacoast 
-Rude 
-Seers 
+Awakening 
+The Wise
 Dirty Knowable Artist 
 Fetters Marine 
 Random 
@@ -8622,7 +8621,7 @@ Taboo
 Litterbug 
 Shaft Thump 
 Aloha Musk 
-Mast 
+Starboard 
 Roulette 
 Knight 
 Lemmings Campaigners 
@@ -8641,9 +8640,9 @@ Dolls
 Tempest Arsenic 
 Money Cotton 
 Ax Statistic 
-Security 
+Security Breach
 Rumpus Directory Merry 
-Dusty 
+Grain
 Eureka Empiricist 
 Farina 
 Wag Refresh 
@@ -8665,14 +8664,14 @@ Jay Universal
 Suicidal Coo Knapsack 
 Uninterestingly Biography Neuron 
 Knack 
-Mast 
+Mastodon 
 Twang Detour 
 Shutter Stagecoach 
 Hoes Directives Tempest Qualm 
 Jelly 
 All Wooded 
 Volt Periscope 
-Objectionable 
+The Objects
 Warfare 
 Fresco Armed Defendant 
 Crocodile Stabilizer 
@@ -8696,7 +8695,7 @@ Farmer Tapings
 Denial 
 Cosmos Wan 
 Newlywed Supplier 
-Barbarian 
+Barbarian Hammer
 Nary Browns 
 Dumber Skipper 
 The Whining Voyage 
@@ -8738,7 +8737,7 @@ Stationmaster Fauna
 Nutrient 88110 
 Braes 
 Angling Encore 
-Sumac 
+Samarkand
 Casual Ventures 
 Thistle Meadow 
 Modulus Mini 
@@ -8752,7 +8751,7 @@ Eightfold Sticky
 Scarecrow 
 Patio Acrobat 
 Alma Dragoon Substructure 
-Grotto 
+Ghetto
 The Earths 
 Pea Emergency 
 Covers 
@@ -8816,10 +8815,10 @@ Hotness
 Seers Novels 
 Foxes Biddable 
 Opulence 
-Peel 
+Orange Peels
 Filibuster 
 Idiotic Thinker 
-Amphibian 
+Reptile
 Warps Lancer 
 Strikers 
 Overturning Rockabye 
@@ -8877,13 +8876,13 @@ This Dunk
 Commonwealth Discs 
 Irrational Nectar 
 Bullet Ark 
-Famous 
+Infamous
 Gratis Lips 
 Banjos 
 Nary Newsletters 
 Intercontinental Select 
 Battleships 
-Vanquish 
+Vanquishers 
 Figuring Disobedience 
 Interdisciplinary  Meek 
 Mission Energetic Friction 
@@ -8912,7 +8911,7 @@ Heathen Demo
 Every Spore 
 Neither Trainees 
 Gourmet Gripes 
-Sierra 
+Glory
 Consort But Rudder 
 Chef Dosage 
 Boldface Altars 
@@ -8934,7 +8933,7 @@ Shell Intonation
 Tunnel 
 Lasso 
 Bifocal Feline 
-Gaiety 
+The Fags
 Pub Widens 
 Thicker Movement 
 Nary Spheres 
@@ -8962,10 +8961,10 @@ Lifestyle Duchess
 Benefiting Tint 
 Bray Sorrow 
 Superior Senate 
-Grooves 
+Grove 
 Pacifier Telegraph 
 Swain Transatlantic 
-Dwarfs 
+The Little Men
 Oasis Brutes 
 Police Addenda 
 Soliloquy Tree Chanticleer 
@@ -8976,7 +8975,7 @@ Sinfully
 Feathers Minus Each Tide 
 Leisure Needles 
 Hassle Quad 
-Sailboat 
+Sails
 Unwound Jets 
 Palmer Prevention 
 Penalty Fury 
@@ -8984,11 +8983,11 @@ Conquerors Planetarium Design
 Lawns Thrills 
 Joiner 
 Disciples Harden 
-Complain 
+Piss n' Moan
 Gins Prodigal 
 Some Lowest 
 Gland Boos 
-Skylark 
+Buick Skylark 
 Mascara  Ugh  Each  Shielding  Images  Annulment  Spheres  Stilt  Request  Pebbles Landlady 
 Refine Kanji 
 Aloha Oncology 
@@ -9045,7 +9044,7 @@ Twig
 Some Forgiveness 
 Deposition Mushrooms 
 Assurances If Utensils 
-Chopper 
+Arnold
 Colonization Tunnel 
 Pea Bowl Daisies 
 Stock Sharer 
@@ -9085,7 +9084,7 @@ Peal Games
 Monarchy Melon 
 Versus Sanctum Retarder 
 Both Stampers 
-Pariah 
+Patriarch
 Rougher Dancer 
 Refine Beggars 
 Luxurious Accession 
@@ -9095,7 +9094,7 @@ Pacific Builder
 Prodigal Bedspring 
 Bunny Bulwark 
 Canoe Driveways Bootleg 
-Plunder 
+Sunder
 Parchment Taboos 
 Gasp Bridge 
 Eyes Smut 
@@ -9125,14 +9124,14 @@ Deviate Porcelain
 Wander Eyeball 
 Haunter Plum 
 Hangar Ascendent 
-Hotness 
+Hot and Cold
 Drew Grownup In Cannibal 
 Cruises Criers 
 Radiator Metro 
 Dock Suction 
 Runt 
 Rhino  Mamma 
-Universal 
+Universal Antidote
 Confession 
 Administrator Strychnine Bellboy 
 Harrier Penance 
@@ -9154,7 +9153,7 @@ Acetylene Bicentennial
 Ridden 
 Limp Tries Nicks 
 Blows Nurtures 
-Naval 
+The Navy
 Cartel Forests 
 Catalog Each Sour 
 Idol Grownup 
@@ -9164,16 +9163,16 @@ All Lambda
 Company 
 Ammonia Megaton 
 Them Could Repulse Depository 
-Floss 
+Mark
 Westward Vans 
 Both Frieze Gunman 
 No Scorpion Manufacturers 
 Dinosaur Chum 
 Tempted Toward Bagpipe 
 Primal 
-Bottleneck 
+Critical Path
 Fleece Devil 
-Insomniac 
+The Addicts
 Betrayal Stub 
 Hall Activism Cools 
 Neither Shillings 
@@ -9190,7 +9189,7 @@ Citrus
 Redwood Inquisition 
 Crawler Cathedral 
 3527 Deepens Boatyard 
-Bangle 
+The Buglers
 Nary Editors 
 Archbishop Examines 
 Shacks Wines 
@@ -9266,7 +9265,7 @@ Cigarettes Indices
 Coverage Chanticleer 
 Confide Colony 
 Forgery Wrecking 
-Factor 
+Factory 
 Thugs Live 
 Fasteners Pelt 
 Dawns 1276 
@@ -9278,12 +9277,12 @@ Subscribe Quart
 Juxtapose Complain 
 Fugue Saws 
 Proposal Shearing 
-Switchboard 
+Switchbord 
 Rattle Crossword 
 Balsam 
 Bovine 
-Glazer 
-Warning 
+The Beholders
+Warriors
 Alibis Snuff 
 Guano Release Metrics 
 Disc Saintly 
@@ -9299,7 +9298,7 @@ Breeder
 Frank Slaughterhouse 
 Heaps Modulus 
 Phonographs Astronomical 
-Brandywine 
+Vodka
 Citation 
 Newcomer Beetles 
 User Hole Snowy 
@@ -9329,11 +9328,11 @@ Planer Nucleus
 Ourselves Agony Bone 
 Gross Priory 
 Concert 
-Battle 
+Fight
 Shuttles Provider Gasp 
 Faster Ere Dreadnought 
-Hatching 
-Mermaid 
+Hatchet
+Mermen
 The Lacquered Carryovers 
 Those Electromechanical 
 Pitiful Memoirs 
@@ -9344,19 +9343,19 @@ Nibbles
 Tumor Zeroes Shadowy 
 Levy Postcard 
 Slim Northwest 
-Dunk 
+Doughnut
 Rater Pause 
 Artery Branching 
-Deputy 
+Sheriffs
 Grades Grandma 
 Till Stationmaster 
 Maxim Strokers 
-Pagoda 
+Gazeebo
 Tubes Cymbals Supper 
 Jumper Airline 
 Kilowatt 
 Embark Counterfeit 
-Penetration 
+Sex
 Cancers Planetarium 
 Bookshelves 
 Baron Sunburn 
@@ -9395,10 +9394,10 @@ Snoopy Prospectus
 Broth Diagnoses 
 Dolly Flashers 
 Kitchen Welfare Pacification 
-Peaches 
+Apples
 Soles Lash 
 Spinner Mare 
-Pal 
+Buddy
 Nationwide Archive 
 Bravest Cinema 
 Drowns Aboard 
@@ -9419,7 +9418,7 @@ Litterbug Bodybuilding
 Stirrings 
 Supergroup Spectra 
 Wasp Bin 
-Finger 
+Finger of Death
 Rate Wench 
 Goblet Anti 
 Frantic Smoker Generals 
@@ -9428,13 +9427,13 @@ Elevator Securities
 Teems Nickels 
 Swimmer Redirection 
 Institute Count 
-Birches 
+Breeches
 Register Marmalade Plunger 
 Blue Career 
 Blazers Bourbon 
 Peer 
 Ladder Softest 
-Aviator 
+Uschanka
 Headquarters Live 
 Speck Fen 
 Chimera Governmental Solver 
@@ -9453,7 +9452,7 @@ Crewcut Conjures
 Those Housekeepers 
 Cretin Preserver 
 Senses Blackjack 
-Smother 
+Gravy
 Bumblebee Shame 
 Pandas Adjuster 
 Elevation Export 
@@ -9503,7 +9502,7 @@ Shaft Sunbeam
 Whirls Modulus 
 Woodman Nor Another Constructor 
 Disgorge 
-Quaker 
+Earthquake
 Any Infantry Honor 
 Some Resin 
 Sanitation Tremor 
@@ -9516,7 +9515,7 @@ All Radial Dummy
 Grapevine Jab 
 Week 
 Pea Wings 
-Pagoda 
+Triangle
 Holly 
 Cures 
 7570 1023 Aright 
@@ -9527,7 +9526,7 @@ Swimsuit
 Mussels Aggregates 
 Luster Membrane 
 Protocol Flats 
-Oracle 
+Soothsayer
 Lorry The Earlier 
 Mace Job 
 Squeezer Modicum Shacks 
@@ -9536,7 +9535,7 @@ Reflector Scholastics
 Churchyard Greener 
 Ado Slang 
 Probation 
-Task 
+Flask
 Sunspot Antisocial 
 Hypertext 11161998 
 Prostate Hex Hoppers 
@@ -9546,9 +9545,9 @@ Mussel Tulip
 Smuggler Motherland 
 Encyclopedic Bargain 
 Seductive Statistical 
-Flock 
+The Herd
 Center Screenings 
-Gasser 
+Inivisble
 Mow Interface 
 Committee Morning 
 Raccoon Pathway 
@@ -9562,7 +9561,7 @@ Brunette Mandarin
 Pooch Valve 
 Spirits Mistletoe 
 Millionaire 
-Inverse 
+Circle
 Thrones Rhombus 
 Opulence Haphazard Icons 
 Cow Gratis Jet 
@@ -9571,10 +9570,10 @@ Pneumonia Smoker
 Excursion 
 Round Pause 
 Plague Impedance Officer 
-Essays 
+Writer
 Sonnet Drank 
-Clink 
-Saints 
+Bones
+The Ram
 Canister Chews 
 Specification Byte Filters 
 Stooge Coal Ouch 
@@ -9586,12 +9585,12 @@ Both Aboriginal Subvert
 Chewers Repercussion Motor 
 Treasurer Pioneering 
 Snafu Gastric Rerun 
-Wilt 
+Decay
 Scholastics Consulate Stallion 
 Impeachment 
 Commemorative 07241999 
 Wavelength 
-Researches 
+Underground Research
 Blanch Betting 
 Agricultural Keys 
 Eightfold Bow 
@@ -9629,7 +9628,7 @@ Adhesive Mischief
 Hangman Magic 
 Penny ( Roadblock Sanctuary ) 
 Tired Behind Motel 
-PDT 
+The Comedowns 
 Violet 
 Sepia Trigonometry 
 Deceiver Petri 
@@ -9660,7 +9659,7 @@ Apprentices Pucker
 Menagerie With Themselves Neither 
 Swift 
 Preview 
-Intrepid 
+Insipid Peasant
 Volleyball Rust 
 Strait 
 Westward Builder 
@@ -9675,12 +9674,12 @@ Misconception Charge
 Hatching Blur 
 Ouch 
 Some Trips 
-Braes 
+Skara Brae
 Miners Stamp 
 No Bewildering Learns 
-Aloha 
-Taboo 
-Whirl 
+Greetings
+Dick Gourds
+World
 Womb Organized 
 Infancy Unlike Copyright 
 Mockingbird Refutes 
@@ -9707,15 +9706,15 @@ Rhymes
 The 8606 Collegiate 
 Gulch Metal 
 Retaliation 
-Indecent 
+Exposure
 Eddy Mongoose 
-Oddity 
+Unity
 Hash Honeydew 
 Solstice Enormity 
 Upload 55402 Lacy 
 Apes Pong 
 Credit Read 
-Airport 
+Airplane
 Ridge Freedom 
 Appetizer Affirmation 
 Morality Assassin 
@@ -9757,7 +9756,7 @@ Abrasion Tamer
 Colonials Sweatshirt 
 Heroin Lard 
 Calliope Erratum 
-Sloop 
+Dorks
 Tongues Refills 
 Lees Suggestive 
 Lily Plurality 
@@ -9766,23 +9765,23 @@ Victory Non Felony
 Mollusk Agile Fetter 
 Bellman 
 Physiology 
-Fortress 
+Citadel
 Walnut Anemia Activator 
 Those Limelight Misty 
-Indicators 
+Indicator 
 Horizon 
 Thaws 
 Guardian Workshops 
-Porter 
+The Doormen
 Shove Painless Sail 
-Pity 
+Sorrow
 Foggy Chase 
 Regulate Pound 
 Landings Police 
 Shampoo 
 Hooker Hut 
 Smother Disciple 
-Sharks 
+Mako
 Both Overload 
 Outcast Fairy Strict Lacrosse 
 Plurality Planetary 
@@ -9795,7 +9794,7 @@ Combative Skies Around Shifty
 New Elision 
 Idealistic Patriots 
 Persuader By Reluctance 
-Hang 
+Hang 'em High 
 Travelers Voyager 
 Suffocation Sanitation 
 Stub Maid 
@@ -9816,7 +9815,7 @@ Abscess Rouge
 Rescuer 
 Arbor Behead 
 Consonant Shoulder 
-Parasitic 
+Glow Worm
 Exploiting Suicides 
 Acquiesce Raper 
 Delirium Dusters 
@@ -9824,7 +9823,7 @@ Conformity Builder
 Stratified After Eddies 
 President Turnip Town 
 No Zodiac 
-Puller 
+Pulitzer Prize
 Thrower 
 Surveyor Identification Plasticity 
 Infidels Vita 
@@ -9859,7 +9858,7 @@ Pea Fetish Veterinarians
 Saloon 
 Nary Ballads 
 Micro Roadblock 
-Entropy 
+Chaos
 Ledger Shadow 
 Ayes Eastern 
 Reef Residential Glen 
@@ -9894,12 +9893,12 @@ Stanzas Parish
 Raisin 
 Splinter Bottom Rebukes 
 Cribs Betrayer 
-En 
+En Taro Adun 
 Pandas Quadrant Aqua 
 Warrior Cypress 
 Hemp Proposal 
 Chicks Discount 
-Matrimonial 
+Binomial
 Martingale Irregulars 
 Notwithstanding Pins 
 Either Vanguard 
@@ -9907,11 +9906,11 @@ Hoodwinks Rudder
 Sham 
 Rook Taproot 
 Their Reptile Astride Each Money Avoid Trials 
-Ware 
+Beware
 Receivable Thermodynamics 
 Crumbs Request 
-Assistantship 
-Blabbermouth 
+Assistant 
+The Rats
 Peg Fin 
 Masquerader Glitter 
 Horde Scientific 
@@ -9922,7 +9921,7 @@ Bedside Florin
 Absolutes Illicit 
 Directrix Supercomputer 
 Steamboat Disillusion 
-Sisters 
+Twin Sister
 Rosette Supervision 
 Utterance 
 Crematory Booksellers 
@@ -9950,7 +9949,7 @@ Wren Screech
 Twas Windmills 
 Hawks But Imitations 
 Ablaze Putter 
-Font 
+Fountain
 Hairpin Chocolate 
 Prudence Penetration 
 Separable Raven 
@@ -9967,14 +9966,14 @@ Diamond Carters
 Thaws Jeopardy 
 Motorcycle 
 Exploiter 
-Crunches 
+The Punchers
 Fairest 04095 
 Agile Charter Mart 
 Rescuer Holiday 
-Lackey 
+The Lackeys
 Oaks Skipper 
 Routers Dwarfs 
-Balsam 
+Alberto Balsam 
 Froth Tribe 
 Tire Busy 
 Trackers Pistol 
@@ -9993,8 +9992,9 @@ Charter Cannot Hardy
 Pea Continental 
 Smother Omega Apostle 
 Bulling 
-Tawny 
+Dead Duck
 Brigadier Sergeant 
 Envoy Upward 
 Skinners Cherish 
-Sharpness Kitty 
+Sharpness Kitty
+Vines 
