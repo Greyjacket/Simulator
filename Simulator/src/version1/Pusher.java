@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
-public class Pusher extends User implements Consumable, Ratable, Comparable<Pusher>{
+public class Pusher extends User implements Consumable, Ratable{
 	
 	boolean isPushing;
 	private int pushes;			//no longer based on level. running average? or half the amount of pushes lost within a recent period of time	
@@ -45,7 +45,7 @@ public class Pusher extends User implements Consumable, Ratable, Comparable<Push
         }
     }
     
-	public void localScan(){
+	public boolean localScan(){
 		
 		//to Do: convert this to a stream for speed
 		
@@ -53,14 +53,17 @@ public class Pusher extends User implements Consumable, Ratable, Comparable<Push
 		relay.connections.stream()
 		.filter(t -> t.getClass().equals(Type Pusher);*/
 		for(TierOneRelay relay : connectedRelays){
-			if (relay.location.equals(this.city){
+			
+			if (relay.location.equals(this.city)){
+				//insert queue error checking here
 				Pusher pusher = relay.queue.poll();
 				this.rate(pusher);
-				relay.queue.
+				this.consume(pusher);
+				relay.queue.add(pusher);
 			}
 		}
 		
-		Node[] nodes = relay.connections.toArray(new Node[relay.connections.size()]);
+		/*Node[] nodes = relay.connections.toArray(new Node[relay.connections.size()]);
 		ArrayList<Pusher> pushers = new ArrayList<Pusher>();
 		Random rn = new Random();
 		
@@ -73,14 +76,22 @@ public class Pusher extends User implements Consumable, Ratable, Comparable<Push
 			}
 		}
 		
-		this.consume(pushers.get(rn.nextInt(pushers.size())));
+		this.consume(pushers.get(rn.nextInt(pushers.size())));*/
 		
-	}
+	}	
 	
-	@Override
-	public int compareTo(Pusher otherPusher) {
-		// TODO Auto-generated method stub
-		return 0;
+	public void evaluateExperience(){
+
+		//geometric sequence
+		int count = 20; //count levels
+		
+		while(count-- <= 0){
+		
+			if(experience >= Math.pow(2, count)){
+				level = count;
+			}
+		}	
+		
 	}
 	
 	public void selfScan(){			
@@ -106,6 +117,7 @@ public class Pusher extends User implements Consumable, Ratable, Comparable<Push
 		
 		if(otherPusher.rating <= rating){
 			otherPusher.likes++;
+			otherPusher.experience++;
 			this.link(otherPusher);
 		}
 		else{
@@ -115,8 +127,8 @@ public class Pusher extends User implements Consumable, Ratable, Comparable<Push
 	
 	public void consume(Pusher otherPusher){		
 		
-		if(this.pushes++ == 0){
-			this.isPushing = true;
+		if(pushes++ == 0){
+			isPushing = true;
 		}
 		
 		if(--otherPusher.pushes == 0){

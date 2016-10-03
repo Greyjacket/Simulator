@@ -12,7 +12,7 @@ public class TierOneRelay extends Relay {
 	
 	public TierOneRelay(){
 		this.connections = new HashSet<Node>();
-		this.queue = new PriorityQueue<Pusher>();
+		this.queue = new PriorityQueue<Pusher>(10000, new PusherComparator());
 	}
 	
 	public void update(){}
@@ -42,4 +42,6 @@ public class TierOneRelay extends Relay {
 	public void setLocation(String location){
 		this.location = location;
 	}
+	
+	
 }

@@ -48,7 +48,7 @@ public class Stage {
 		while(numberOfRounds-- != 0){
 			index = rn.nextInt(pushers.size());
 			pusher = pushers.get(index);
-			pusher.relayScan(relay);
+			pusher.localScan();
 			
 			for (Pusher tester : pushers) {
 				//String line = Integer.toString(tester.id) + " " + tester.name + " " + Integer.toString(tester.pushes) + "\n";
